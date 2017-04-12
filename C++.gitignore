@@ -30,3 +30,41 @@
 *.exe
 *.out
 *.app
+
+#####################
+## Special section ##
+#####################
+
+[Bb]in/
+[Oo]bj/
+*.depend
+*.layout
+
+####################
+## Common section ##
+####################
+
+# OS generated
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# Vim Artifacts
+*.swp
+*.swo
+.ctrlp_cache/
+
+# Subversion directory and files
+.svn
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Temp directories
+.[Tt]emp/
+.[Tt]mp/
