@@ -84,6 +84,7 @@ DerivedDataCache/*
 .Spotlight-V100
 .Trashes
 Icon?
+!Icon?/
 ehthumbs.db
 [Tt]humbs.db
 
