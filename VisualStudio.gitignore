@@ -360,6 +360,12 @@ MigrationBackup/
 FodyWeavers.xsd
 
 ####################
+##   VS Section   ##
+####################
+
+[Bb]uild/
+
+####################
 ## Common section ##
 ####################
 
